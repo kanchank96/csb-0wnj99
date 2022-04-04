@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-0wnj99/static/css/main.652601e2.chunk.css",
-    "main.js": "https://.github.io/csb-0wnj99/static/js/main.9c34bca8.chunk.js",
-    "main.js.map": "https://.github.io/csb-0wnj99/static/js/main.9c34bca8.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-0wnj99/static/js/runtime-main.984130d7.js",
-    "runtime-main.js.map": "https://.github.io/csb-0wnj99/static/js/runtime-main.984130d7.js.map",
-    "static/js/2.0200d0e9.chunk.js": "https://.github.io/csb-0wnj99/static/js/2.0200d0e9.chunk.js",
-    "static/js/2.0200d0e9.chunk.js.map": "https://.github.io/csb-0wnj99/static/js/2.0200d0e9.chunk.js.map",
-    "index.html": "https://.github.io/csb-0wnj99/index.html",
-    "static/css/main.652601e2.chunk.css.map": "https://.github.io/csb-0wnj99/static/css/main.652601e2.chunk.css.map",
-    "static/js/2.0200d0e9.chunk.js.LICENSE.txt": "https://.github.io/csb-0wnj99/static/js/2.0200d0e9.chunk.js.LICENSE.txt",
-    "static/media/Im.5f43b4a9.png": "https://.github.io/csb-0wnj99/static/media/Im.5f43b4a9.png"
+    "main.css": "https://kanchank96.github.io/csb-0wnj99/static/css/main.652601e2.chunk.css",
+    "main.js": "https://kanchank96.github.io/csb-0wnj99/static/js/main.9c34bca8.chunk.js",
+    "main.js.map": "https://kanchank96.github.io/csb-0wnj99/static/js/main.9c34bca8.chunk.js.map",
+    "runtime-main.js": "https://kanchank96.github.io/csb-0wnj99/static/js/runtime-main.d847911e.js",
+    "runtime-main.js.map": "https://kanchank96.github.io/csb-0wnj99/static/js/runtime-main.d847911e.js.map",
+    "static/js/2.30eea423.chunk.js": "https://kanchank96.github.io/csb-0wnj99/static/js/2.30eea423.chunk.js",
+    "static/js/2.30eea423.chunk.js.map": "https://kanchank96.github.io/csb-0wnj99/static/js/2.30eea423.chunk.js.map",
+    "index.html": "https://kanchank96.github.io/csb-0wnj99/index.html",
+    "static/css/main.652601e2.chunk.css.map": "https://kanchank96.github.io/csb-0wnj99/static/css/main.652601e2.chunk.css.map",
+    "static/js/2.30eea423.chunk.js.LICENSE.txt": "https://kanchank96.github.io/csb-0wnj99/static/js/2.30eea423.chunk.js.LICENSE.txt",
+    "static/media/Im.5f43b4a9.png": "https://kanchank96.github.io/csb-0wnj99/static/media/Im.5f43b4a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.984130d7.js",
-    "static/js/2.0200d0e9.chunk.js",
+    "static/js/runtime-main.d847911e.js",
+    "static/js/2.30eea423.chunk.js",
     "static/css/main.652601e2.chunk.css",
     "static/js/main.9c34bca8.chunk.js"
   ]
